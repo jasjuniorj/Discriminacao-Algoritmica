@@ -1,4 +1,4 @@
-# Dicriminação Algorítmica
+# Discriminação Algorítmica
 
 Aqui você encontra uma base de dados com links para as matérais que relatam casos suspeitos de discriminação algorítmica. 
 As matérias foram complidas por Tacizio Silva dentro do projeto Develar Justiça Racial, IA e tecnologias digitais" 
